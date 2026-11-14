@@ -4,7 +4,7 @@ A Minesweeper-style game built for charity: water. Dig down through soil,
 avoid contaminated water, and reach the clean water below. Four difficulty
 levels, scored on time.
 
-**[Play it →](https://emcuberos1.github.io/waterfinder/)**
+**[Play it →](https://emcuberos1.github.io/The-Waterfinder/)**
 
 ## Features
 
